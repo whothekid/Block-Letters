@@ -14,6 +14,7 @@ myInitial5 = "IIIII"
 familyInitial = "C"
 familyInitial3 = "CCC"
 
+print(myInitial5 + space3 + familyInitial3)
 for i in range(5):
     print(space2 + myInitial + space4 + familyInitial)
 print(myInitial5 + space3 + familyInitial3)
